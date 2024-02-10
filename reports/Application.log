@@ -1,0 +1,317 @@
+[13:29:15] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[13:29:16] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[13:29:16] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[13:29:16] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[13:29:16] INFO  com.callzen.pages.CallzenWeb - Clicking on Login Success Button
+[13:29:16] INFO  com.callzen.testCases.WebTest - Browser closed successfully
+[13:37:14] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[13:37:15] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[13:37:15] INFO  com.callzen.pages.CallzenWeb - Entered Email: system@callzen.ai
+[13:37:15] INFO  com.callzen.pages.CallzenWeb - Entered Password: bfM6PVoXLaop5w
+[13:37:15] INFO  com.callzen.pages.CallzenWeb - Clicked on 'Login' Button
+[13:37:15] INFO  com.callzen.testCases.WebTest - Browser closed successfully
+[14:31:20] INFO  com.callzen.testCases.WebTest - Failed to launch null browser: null
+[14:31:57] INFO  com.callzen.testCases.WebTest - Failed to launch null browser: null
+[14:37:54] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[14:37:55] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[14:37:55] INFO  com.callzen.pages.CallzenWeb - Entered Email: system@callzen.ai
+[14:37:55] INFO  com.callzen.pages.CallzenWeb - Entered Password: bfM6PVoXLaop5w
+[14:37:56] INFO  com.callzen.pages.CallzenWeb - Clicked on 'Login' Button
+[14:37:56] INFO  com.callzen.testCases.WebTest - Browser closed successfully
+[14:40:57] INFO  com.callzen.testCases.WebTest - Failed to launch null browser: null
+[14:50:38] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[14:50:40] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[14:50:40] INFO  com.callzen.pages.CallzenWeb - Entered Email: system@callzen.ai
+[14:50:40] INFO  com.callzen.pages.CallzenWeb - Entered Password: bfM6PVoXLaop5w
+[14:50:40] INFO  com.callzen.pages.CallzenWeb - Clicked on 'Login' Button
+[14:50:40] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[15:01:50] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[15:01:52] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[15:01:52] INFO  com.callzen.pages.CallzenWeb - Entered Email: system@callzen.ai
+[15:01:52] INFO  com.callzen.pages.CallzenWeb - Entered Password: bfM6PVoXLaop5w
+[15:01:52] INFO  com.callzen.pages.CallzenWeb - Clicked on 'Login' Button
+[15:01:52] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[15:15:11] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[15:15:12] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[15:15:12] INFO  com.callzen.pages.CallzenWeb - Entered Email: system@callzen.ai
+[15:15:12] INFO  com.callzen.pages.CallzenWeb - Entered Password: bfM6PVoXLaop5w
+[15:15:12] INFO  com.callzen.pages.CallzenWeb - Clicked on 'Login' Button
+[15:15:12] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[15:23:51] INFO  com.callzen.testCases.WebTest - Launching 'chrome' browser in headless mode
+[15:23:52] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[15:23:52] INFO  com.callzen.pages.CallzenWeb - Entered Email: system@callzen.ai
+[15:23:52] INFO  com.callzen.pages.CallzenWeb - Entered Password: bfM6PVoXLaop5w
+[15:23:52] INFO  com.callzen.pages.CallzenWeb - Clicked on 'Login' Button
+[15:23:52] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[15:24:27] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[15:24:29] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[15:24:29] INFO  com.callzen.pages.CallzenWeb - Entered Email: system@callzen.ai
+[15:24:29] INFO  com.callzen.pages.CallzenWeb - Entered Password: bfM6PVoXLaop5w
+[15:24:29] INFO  com.callzen.pages.CallzenWeb - Clicked on 'Login' Button
+[15:24:29] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[15:33:03] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[15:33:04] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[15:33:04] INFO  com.callzen.pages.CallzenWeb - Entered Email: system@callzen.ai
+[15:33:04] INFO  com.callzen.pages.CallzenWeb - Entered Password: bfM6PVoXLaop5w
+[15:33:04] INFO  com.callzen.pages.CallzenWeb - Clicked on 'Login' Button
+[15:33:04] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[15:35:29] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[15:35:30] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[15:35:31] INFO  com.callzen.pages.CallzenWeb - Entered Email: system@callzen.ai
+[15:35:31] INFO  com.callzen.pages.CallzenWeb - Entered Password: bfM6PVoXLaop5w
+[15:35:31] INFO  com.callzen.pages.CallzenWeb - Clicked on 'Login' Button
+[15:35:31] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[16:20:15] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[16:20:17] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[16:20:17] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[16:20:17] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[16:20:17] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[16:20:23] INFO  com.callzen.pages.CallzenWeb - Clicking on Header Option: Agents
+[16:20:23] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[16:20:23] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[16:27:31] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[16:27:33] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[16:27:33] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[16:27:33] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[16:27:33] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[16:27:38] INFO  com.callzen.pages.CallzenWeb - Clicking on Header Option: Agents
+[16:27:38] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[16:28:08] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[16:30:51] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[16:30:52] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[16:30:52] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[16:30:52] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[16:30:52] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[16:30:58] INFO  com.callzen.pages.CallzenWeb - Clicking on Header Option: Agents
+[16:30:58] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[16:31:09] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[16:33:57] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[16:33:58] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[16:33:58] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[16:33:58] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[16:33:58] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[16:34:04] INFO  com.callzen.pages.CallzenWeb - Clicking on Header Option: Agents
+[16:34:07] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[16:34:07] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[16:35:03] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[16:35:04] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[16:35:04] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[16:35:04] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[16:35:04] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[16:35:12] INFO  com.callzen.pages.CallzenWeb - Clicking on Header Option: Agents
+[16:35:15] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[16:35:20] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[16:38:05] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[16:38:06] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[16:38:06] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[16:38:06] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[16:38:06] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[16:38:12] INFO  com.callzen.pages.CallzenWeb - Clicking on Header Option: Agents
+[16:38:14] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[16:38:14] INFO  com.callzen.pages.CallzenWeb - Entering in 'calls Made' Searchbar
+[16:38:16] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[17:16:23] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[17:16:26] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[17:16:26] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[17:16:26] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[17:16:26] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[17:16:32] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[17:19:24] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[17:19:25] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[17:19:25] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[17:19:25] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[17:19:25] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[17:19:31] INFO  com.callzen.pages.CallzenWeb - Clicking on Header Option: Agents
+[17:19:34] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[17:19:34] INFO  com.callzen.pages.CallzenWeb - Entering ColumnName 'calls Made' in Searchbar
+[17:19:34] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[18:31:39] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[18:31:40] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[18:31:40] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[18:31:40] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[18:31:40] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[18:31:48] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[18:35:14] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[18:35:15] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[18:35:15] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[18:35:15] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[18:35:15] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[18:35:51] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[18:36:23] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[18:36:24] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[18:36:24] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[18:36:24] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[18:36:24] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[18:36:32] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[19:11:30] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[19:11:31] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[19:11:31] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[19:11:31] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[19:11:31] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[19:12:02] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[19:40:14] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[19:40:15] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[19:40:15] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[19:40:15] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[19:40:15] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[19:40:45] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:03:35] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:03:36] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:03:36] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:03:36] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:03:36] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:03:44] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:08:00] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:08:01] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:08:01] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:08:01] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:08:01] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:08:10] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:08:10] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:09:30] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:09:31] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:09:31] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:09:31] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:09:31] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:09:39] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:09:39] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:11:02] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:11:03] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:11:03] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:11:03] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:11:03] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:11:11] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:11:14] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:14:23] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:14:25] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:14:25] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:14:25] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:14:25] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:14:32] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:14:35] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:25:47] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:25:48] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:25:48] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:25:48] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:25:48] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:25:57] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:26:00] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:26:54] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:26:55] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:26:55] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:26:55] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:26:55] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:27:02] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:27:05] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:29:43] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:29:44] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:29:44] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:29:44] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:29:44] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:29:53] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:29:56] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:33:45] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:33:46] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:33:46] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:33:46] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:33:46] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:33:55] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:33:58] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:38:18] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:38:20] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:38:20] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:38:20] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:38:20] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:38:28] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:38:31] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:39:45] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:39:46] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:39:46] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:39:46] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:39:46] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:39:55] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:39:58] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:40:39] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:40:40] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:40:40] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:40:40] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:40:40] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:40:48] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:40:51] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:42:54] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:42:56] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:42:56] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:42:56] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:42:56] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:43:03] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:43:06] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:50:03] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:50:05] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:50:05] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:50:05] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:50:05] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:50:13] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:50:17] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[20:52:41] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[20:52:43] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[20:52:43] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[20:52:43] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[20:52:43] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[20:52:51] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[20:52:54] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[21:53:28] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[21:53:29] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[21:53:29] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[21:53:31] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[21:53:36] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[21:53:37] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[21:53:37] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[21:53:38] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[21:53:38] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[21:53:47] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[21:53:50] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[21:57:23] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[21:57:24] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[21:57:24] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[21:57:24] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[21:57:24] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[21:57:33] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[21:57:36] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[22:01:12] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[22:01:14] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[22:01:14] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[22:01:14] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[22:01:14] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[22:01:22] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[22:01:52] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[22:07:37] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[22:07:39] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[22:07:39] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[22:07:39] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[22:07:39] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[22:07:48] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[22:09:23] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[22:09:24] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[22:09:24] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[22:09:24] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[22:09:24] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[22:09:32] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[22:10:02] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[22:12:59] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[22:13:01] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[22:13:01] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[22:13:01] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[22:13:01] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[22:13:08] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[22:14:27] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[22:14:29] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[22:14:29] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[22:14:29] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[22:14:29] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[22:14:35] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
+[22:15:56] INFO  com.callzen.testCases.WebTest - Successfully Launched 'chrome' Browser
+[22:15:57] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[22:15:57] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[22:15:57] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[22:15:57] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[22:16:07] INFO  com.callzen.testCases.WebTest - Successfully Browser closed
