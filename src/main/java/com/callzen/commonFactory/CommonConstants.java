@@ -13,9 +13,9 @@ public final class CommonConstants {
     @BeforeSuite(alwaysRun = true)
     public static PropertyFileReader loadConfigProperties() {
         Config = new PropertyFileReader();
-        BROWSER = Config.prop("config").getProperty("browser");
+        BROWSER = Config.prop("config").getProperty("browserName");
         URL = Config.prop("config").getProperty("url");
-        USERNAME = Config.prop("config").getProperty("username");
+        USERNAME = Config.prop("config").getProperty("userName");
         PASSWORD = Config.prop("config").getProperty("password");
         RUN_MODE = Boolean.parseBoolean(Config.prop("config").getProperty("headless"));
         return Config;
