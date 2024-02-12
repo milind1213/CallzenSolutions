@@ -1,0 +1,47 @@
+[16:41:14] INFO  com.callzen.testCases.WebTest - Successfully 'Chrome' Browser closed
+[16:41:15] INFO  com.callzen.testCases.WebTest - Successfully Launched 'Chrome' Browser
+[16:41:21] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[16:41:21] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[16:41:21] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[16:41:21] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[16:41:32] INFO  com.callzen.testCases.WebTest - Clicked on 'Agent' Module
+[16:41:36] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[16:41:36] INFO  com.callzen.pages.CallzenWeb - Entering ColumnName 'customers' in Searchbar
+[16:41:36] INFO  com.callzen.pages.CallzenWeb - CLicking on Checkbox
+[16:41:36] INFO  com.callzen.pages.CallzenWeb - Clearing the text from Searchbar
+[16:41:36] INFO  com.callzen.pages.CallzenWeb - Entering ColumnName 'connected Calls' in Searchbar
+[16:41:36] INFO  com.callzen.pages.CallzenWeb - CLicking on Checkbox
+[16:41:36] INFO  com.callzen.pages.CallzenWeb - Clearing the text from Searchbar
+[16:41:36] INFO  com.callzen.pages.CallzenWeb - Entering ColumnName 'meaningful Calls' in Searchbar
+[16:41:37] INFO  com.callzen.pages.CallzenWeb - CLicking on Checkbox
+[16:41:37] INFO  com.callzen.pages.CallzenWeb - Clearing the text from Searchbar
+[16:41:37] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[16:41:37] INFO  com.callzen.testCases.WebTest - Agent Table 'Total Columns :checklist coverage,actions,agent name,calls made,connected calls,meaningful calls,customers,inbound calling,avg handling time,'
+[16:41:37] INFO  com.callzen.testCases.WebTest - Checked 'Total Columns :average handling time,calls made,checklists,connected calls,customers,long silence,meaningful calls,negative emotion,total talktime,'
+[16:41:37] INFO  com.callzen.testCases.WebTest - Successfully 'Chrome' Browser closed
+[16:41:37] INFO  com.callzen.testCases.WebTest - Successfully Launched 'Chrome' Browser
+[16:41:40] INFO  com.callzen.testCases.WebTest - Navigated to: https://beta-new.callzen.ai/auth/signin
+[16:41:40] INFO  com.callzen.pages.CallzenWeb - Entering Email: system@callzen.ai
+[16:41:40] INFO  com.callzen.pages.CallzenWeb - Entering Password: bfM6PVoXLaop5w
+[16:41:40] INFO  com.callzen.pages.CallzenWeb - Clicking on 'Sign In' Button
+[16:41:49] INFO  com.callzen.testCases.WebTest - Clicked on 'Agent' Module
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - Entering ColumnName 'average Handling Time' in Searchbar
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - CLicking on Checkbox
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - Clearing the text from Searchbar
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - Entering ColumnName 'calls Made' in Searchbar
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - CLicking on Checkbox
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - Clearing the text from Searchbar
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - Entering ColumnName 'checklists' in Searchbar
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - CLicking on Checkbox
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - Clearing the text from Searchbar
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - Entering ColumnName 'long Silence' in Searchbar
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - CLicking on Checkbox
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - Clearing the text from Searchbar
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - Entering ColumnName 'negative Emotion' in Searchbar
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - CLicking on Checkbox
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - Clearing the text from Searchbar
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - Entering ColumnName 'total Talktime' in Searchbar
+[16:41:52] INFO  com.callzen.pages.CallzenWeb - CLicking on Checkbox
+[16:41:53] INFO  com.callzen.pages.CallzenWeb - Clearing the text from Searchbar
+[16:41:53] INFO  com.callzen.pages.CallzenWeb - Clicking on Column Filter Button

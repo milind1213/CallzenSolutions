@@ -1,18 +1,19 @@
 package com.callzen.pages;
 
-import com.microsoft.playwright.ElementHandle;
+import com.callzen.commonFactory.PlaywrightCommon;
 import com.microsoft.playwright.Locator;
 import com.microsoft.playwright.Page;
+import com.microsoft.playwright.PlaywrightException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import java.util.List;
-import com.microsoft.playwright.ElementHandle;
 
-public class CallzenWeb {
+public class CallzenWeb extends PlaywrightCommon {
     public Page page;
     public Logger logger = LogManager.getLogger(this.getClass());
     public CallzenWeb(Page page) {
+        super(page);
         this.page = page;
     }
     public void log(String message) {
@@ -21,35 +22,44 @@ public class CallzenWeb {
     // Locators
     private String emailField = "#email";
     private String passwordField = "#password";
-    private String loginBtn = "//button[@type='submit' and text()='Sign In']";
+     String loginBtn = "//button[@type='submit' and text()='Sign In']";
     private String headrLocator = "//*[@class='nb__3eMzz']//following-sibling::span[text()='menu']";
     private String columnFilterBtn = "(//*[@class='nb__1hXpJ']//button)[1]";
     private String searchBar = "//input[@placeholder='Search']";
     private String agentTableColumns = "//tr/th[1]//p";
     private String checkListCoverageColumn = "//div[@class='nb__1w2q6']";
     private String actionsColumn = "//div[@class='nb__1HF0I']";
-    private String checkedColumns = "//input[@type='checkbox' and @checked]/preceding-sibling::span";
-    private String cheked= "(//input[@type='checkbox' and @checked]/preceding-sibling::span)[1]";
+    private String checkedColumns = "//input[@type='checkbox' and @checked]/ancestor::label";
+    private String clearTextIcon = "//button[@class='nb__2ti88 nb__2nIpP']//*[name()='svg']";
 
-    public String getCheckedCols() throws InterruptedException {
-        StringBuilder checkedCols = new StringBuilder();
-        page.click(columnFilterBtn);
-        log("Clicking on Column Filter Button");
-        for (int i =1; i <= 7; i++) {
-            String columnName = page.locator("(//input[@type='checkbox' and @checked]/preceding-sibling::span)["+i+"]").innerText();
-            checkedCols.append(columnName).append(",");
+    public void login(String email, String password) {
+        log("Entering Email: " + email);
+        fill(emailField, email);
+        log("Entering Password: " + password);
+        fill(passwordField, password);
+        log("Clicking on 'Sign In' Button");
+        click(loginBtn);
+     }
+
+    public String getCheckedColumns() throws InterruptedException {
+        click(columnFilterBtn);
+        Locator loc = page.locator(checkedColumns);
+        StringBuilder sb = new StringBuilder();
+        try {
+            page.waitForSelector(checkedColumns);
+            List<String> all = loc.allInnerTexts();
+            System.out.println("Number of elements: " + all.size());
+            for (String s : all) {
+                sb.append(s).append(",");
+            }
+        } catch (PlaywrightException e) {
+            System.err.println("An error occurred: " + e.getMessage());
+            e.printStackTrace();
         }
-        System.out.println("checkedCols: " + checkedCols);
-        return checkedCols.toString();
+        return sb.toString();
     }
 
-
-
-
-
-
-
-    public String getColumnNames() {
+    public String getAgentTableColumnsNames() {
         StringBuilder sb = new StringBuilder();
         String checklist = page.locator(checkListCoverageColumn).innerText();
         String actions = page.locator(actionsColumn).innerText();
@@ -62,26 +72,10 @@ public class CallzenWeb {
         return sb.toString();
     }
 
-
-
-
-    public void login(String email, String password) {
-        log("Entering Email: " + email);
-        page.fill(emailField, email);
-
-        log("Entering Password: " + password);
-        page.fill(passwordField, password);
-
-        log("Clicking on 'Sign In' Button");
-        page.click(loginBtn);
-    }
-
-
-
     public String selectHeaderOption(String header) {
         String headerLocator = headrLocator.replace("menu", header);
         try {
-            page.click(headerLocator);
+            click(headerLocator);
             return "Header option '" + header + "' selected successfully.";
         } catch (Exception e) {
             e.printStackTrace();
@@ -89,19 +83,36 @@ public class CallzenWeb {
         }
     }
 
-    public void columnFilter(String headers) throws InterruptedException {
-        selectHeaderOption(headers);
-        log("Clicking on Header Option: " + headers);
-
-        page.click(columnFilterBtn);
+    public void searchColumnFilter(String...columns) throws InterruptedException {
+        click(columnFilterBtn);
         log("Clicking on Column Filter Button");
-
-        getCheckedCols();
-
-        page.fill(searchBar, "calls Made");
-        log("Entering ColumnName 'calls Made' in Searchbar");
+        for (String col : columns) {
+            fill(searchBar, col);
+            log("Entering ColumnName '" + col + "' in Searchbar");
+            click("//input[@type='checkbox']");
+            log("CLicking on Checkbox");
+            click(clearTextIcon);
+            log("Clearing the text from Searchbar");
+        }
+        click(columnFilterBtn);
+        log("Clicking on Column Filter Button");
     }
 
+
+    public void removeColumnFilter(String...columns) throws InterruptedException {
+        click(columnFilterBtn);
+        log("Clicking on Column Filter Button");
+        for (String col : columns) {
+            fill(searchBar, col);
+            log("Entering ColumnName '" + col + "' in Searchbar");
+            click("//input[@type='checkbox']");
+            log("CLicking on Checkbox");
+            click(clearTextIcon);
+            log("Clearing the text from Searchbar");
+        }
+        click(columnFilterBtn);
+        log("Clicking on Column Filter Button");
+    }
 
 
 
