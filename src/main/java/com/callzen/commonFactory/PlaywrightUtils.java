@@ -3,9 +3,9 @@ package com.callzen.commonFactory;
 import com.microsoft.playwright.Locator;
 import com.microsoft.playwright.Page;
 
-public class PlaywrightCommon {
+public class PlaywrightUtils {
   public Page page;
-    public PlaywrightCommon(Page page) {
+    public PlaywrightUtils(Page page) {
         this.page = page;
     }
     public void type(String loc, String text) {

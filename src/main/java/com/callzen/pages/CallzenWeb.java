@@ -1,6 +1,6 @@
 package com.callzen.pages;
 
-import com.callzen.commonFactory.PlaywrightCommon;
+import com.callzen.commonFactory.PlaywrightUtils;
 import com.microsoft.playwright.Locator;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.PlaywrightException;
@@ -9,7 +9,7 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.List;
 
-public class CallzenWeb extends PlaywrightCommon {
+public class CallzenWeb extends PlaywrightUtils {
     public Page page;
     public Logger logger = LogManager.getLogger(this.getClass());
     public CallzenWeb(Page page) {
