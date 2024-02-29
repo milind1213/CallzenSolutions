@@ -48,7 +48,7 @@ public class MyListeners implements ITestListener, ISuiteListener {
     @Override
     public void onTestFailure(ITestResult result) {
         String methodName = result.getMethod().getMethodName();
-        String excepionMessage = Arrays.toString(result.getThrowable().getStackTrace());
+        String exceptionMessage = Arrays.toString(result.getThrowable().getStackTrace());
         try {
             TestUtil.captureScreenshot(methodName);
         } catch (IOException e) {
@@ -56,7 +56,7 @@ public class MyListeners implements ITestListener, ISuiteListener {
         }
         extentTest.get()
                 .fail("<details>" + "<summary>" + "<b>" + "<font color=" + "red>" + "Exception Occured: Click to View"
-                        + "</font>" + "</b >" + "</summary>" + excepionMessage.replaceAll(",", "<br>") + "</details>"
+                        + "</font>" + "</b >" + "</summary>" + exceptionMessage.replaceAll(",", "<br>") + "</details>"
                         + " \n");
 
         extentTest.get().fail("<b>" + "<font color=" + "red>" + "Screenshot of Failure" + "</font>" + "</b>",
