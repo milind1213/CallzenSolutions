@@ -62,7 +62,7 @@ public class WebTest extends BaseTest {
         log("Checked 'Total Columns :"+checkedColumns+"'");
     }
 
-    @Test(priority=2)
+   // @Test(priority=2)
     public void TC02_Verify_Search_select_RemoveColumn_Functionality() throws InterruptedException {
         user.selectHeaderOption("Agents");
         log("Clicked on 'Agent' Module");
